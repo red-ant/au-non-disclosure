@@ -13,8 +13,8 @@
 	- by one party to the other; or
 	- by both parties to each other.
 
-- The Recipient(s) agree to use the Confidential Information solely for the Approved Use.
-- In exchange for the right to use the Confidential Information for the Approved Use, the Recipient(s) of the Confidential Information agree to keep it strictly confidential in accordance with the Agreement.
+- The Recipient (s) agree to use the Confidential Information solely for the Approved Use.
+- In exchange for the right to use the Confidential Information for the Approved Use, the Recipient (s) of the Confidential Information agree to keep it strictly confidential in accordance with the Agreement.
 
 ## Confidentiality exceptions
 
@@ -76,9 +76,6 @@ means the _A New Tax System (Goods and Services Tax) Act_ 1999 (Cth).
 ### Recipient
 means the party that receives Confidential Information from the other party.
 
-### Approved Persons
-means 
-
 ## Variables
 
 #### approved use
@@ -89,7 +86,7 @@ reviewing the business / doing another thing
 
 #### exemptions
 
-employees, related body corporates, directors, officers, advisers, contractors
+the employees, related body corporates, directors, officers, advisers, contractors
 
 `Guidance` These are other people that the recipient is able to provide the confidential information to.  Be careful who you allow to receive it!
 
