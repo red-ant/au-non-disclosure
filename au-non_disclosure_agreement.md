@@ -20,9 +20,18 @@
 
 The parties agree that regardless of the other obligations in the Agreement, the Recipient has the right to disclose Confidential Information to the Approved Persons if the disclosure is for the purpose of the Approved Use.
 
-## Term
+## Agreement end
 
-- The parties agree that the term of the Agreement will be 5 years.
+If the information is particularly sensitive, you may also want for there to be an obligation to destroy the confidential information.  Keep in mind it's an obligation on any party that recieves confidential information!
+
+### Parties agree to a term for the Agreement.
+
+- The parties agree that the term of the Agreement will be {{term}}.
+- The parties agree to destroy all Confidential Information in their possession upon the termination of the Agreement.
+
+### Parties to a term and to destroy the Confidential Information they have at the end of the term.
+
+- The parties agree that the term of the Agreement will be {{term}}.
 - The parties agree to destroy all Confidential Information in their possession upon the termination of the Agreement.
 
 ## LawPatch
@@ -95,3 +104,9 @@ the employees, related body corporates, directors, officers, advisers, contracto
 New South Wales
 
 `Guidance` This is the state that you will go to court in if there’s legal action under this document. It’s usually better to have a "home court" advantage. If your business is in New South Wales, make the forum the New South Wales courts.
+
+### term
+
+5 years
+
+`Guidance` it's always a good idea to clarify a specific endpoint for the agreement!
