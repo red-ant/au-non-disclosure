@@ -18,15 +18,22 @@ Your choice here determines whether this agreement deals with:
 
 ### (One Way) Confidential Information will be disclosed from one party to the other party only.
 
-- Confidential Information will be disclosed by {{disclosing party}}.
+- Confidential Information will be disclosed by {{disclosing party}} at the sole discretion of the Discloser.
 - The Recipient agrees to use the Confidential Information solely for the Approved Use.
 - In exchange for the right to use the Confidential Information for the Approved Use, the Recipient of the Confidential Information agrees to keep it strictly confidential in accordance with the Agreement.
 
 ### (Two Way) Confidential Information will be disclosed by both parties to each other.
 
-- Confidential Information will be disclosed by both parties to each other.
+- Confidential Information will be disclosed by both parties to each other at the sole discretion of each Discloser.
 - The Recipients agree to use the Confidential Information solely for the Approved Use.
 - In exchange for the right to use the Confidential Information for the Approved Use, the Recipients of the Confidential Information agree to keep it strictly confidential in accordance with the Agreement.
+
+## Effect of disclosures
+
+The disclosure of Confidential Information under the Agreement will not:
+
+- have the effect of granting any rights over intellectual property rights in the Confidential Information; or
+- establishing any relationship between the parties other than that created explicitly by the Agreement.
 
 ## Confidentiality exceptions
 
@@ -35,8 +42,8 @@ Your choice here determines whether this agreement deals with:
 
 ## Term
 
-- The parties agree that the term of the Agreement will be 5 years.
-- The parties agree to destroy all Confidential Information in their possession upon the termination of the Agreement.
+- The parties agree that the term of the Agreement will be {{term}}.
+- The parties agree to destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
 
 ## LawPatch
 
@@ -117,3 +124,9 @@ New South Wales
 #### special conditions
 
 [enter any other obligations you would like there to be here]
+
+#### term
+
+5 years
+
+`Guidance` Type in the period of time that the confidentiality obligations under this document will endure for.  Err on the side of longer than you need - the parties can always agree to cancel the agreement!
