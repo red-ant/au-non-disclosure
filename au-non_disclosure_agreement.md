@@ -28,12 +28,23 @@ Your choice here determines whether this agreement deals with:
 - The Recipients agree to use the Confidential Information solely for the Approved Use.
 - In exchange for the right to use the Confidential Information for the Approved Use, the Recipients of the Confidential Information agree to keep it strictly confidential in accordance with the Agreement.
 
+## Protective measures
+
+Recipient agrees to:
+
+- utilize industry standard security techniques to prevent;
+- immediately notify the Discloser of; and
+- use its best endeavours to mitigate the effects of,
+
+any unauthorised access or use of the Confidential Information for which it is responsible in whole or in part.
+
 ## Effect of disclosures
 
 The disclosure of Confidential Information under the Agreement will not:
 
-- have the effect of granting any rights over intellectual property rights in the Confidential Information; or
-- establishing any relationship between the parties other than that created explicitly by the Agreement.
+- have the effect of granting any rights over intellectual property rights in the Confidential Information;
+- establishing any relationship between the parties other than that created explicitly by the Agreement; or
+- impose any obligation on the Discloser to disclose accurate or current Confidential Information.
 
 ## Confidentiality exceptions
 
@@ -111,7 +122,7 @@ First Party to Second Party / Second Party to First Party
 
 #### exemptions
 
-the employees, related body corporates, directors, officers, advisers, contractors
+the employees, related body corporates, directors, officers, advisers, contractors, record keeping and technology service providers
 
 `Guidance` These are other people that the recipient is able to provide the confidential information to.  Be careful who you allow to receive it!
 
