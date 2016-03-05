@@ -69,10 +69,6 @@ The Recipient must not, however, make such a disclosure without first notifying 
 - The parties agree to this document using [LawPatch language](https://github.com/lawpatch) because legalese is tedious.
 - The [LawPatch language](https://github.com/lawpatch) referenced by hyperlink is legally effective. Text in the hyperlink is for convenience only and is not legally effective.
 
-## Other conditions
-
-{{special conditions}}
-
 ## Necessary bureaucracy
 
 - The governing law of the Agreement will be {{governing law state}}, and the parties agree that this state will be the exclusive jurisdiction for any proceedings under the Agreement.
@@ -139,10 +135,6 @@ the employees, related body corporates, directors, officers, advisers, contracto
 New South Wales
 
 `Guidance` This is the state that you will go to court in if there’s legal action under this document. It’s usually better to have a "home court" advantage. If your business is in New South Wales, make the forum the New South Wales courts.
-
-#### special conditions
-
-[enter any other obligations you would like there to be here]
 
 #### term
 
