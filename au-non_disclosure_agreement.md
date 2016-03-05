@@ -40,21 +40,28 @@ any unauthorised access or use of the Confidential Information for which it is r
 
 ## Effect of disclosures
 
-The disclosure of Confidential Information under the Agreement will not:
+The disclosure of Confidential Information from the Discloser to the Recipient under the Agreement will not:
 
 - have the effect of granting any rights over intellectual property rights in the Confidential Information;
 - establishing any relationship between the parties other than that created explicitly by the Agreement; or
 - impose any obligation on the Discloser to disclose accurate or current Confidential Information.
 
-## Confidentiality exceptions
+## Disclosures required by law
+The Recipient of Confidential Information is permitted to disclose Confidential Information if:
+- the disclosure is necessary in order to enforce the Agreement; 
+- the disclosure is required by law or a binding order of a government agency or court.
 
-- The parties agree that regardless of the other obligations in the Agreement, the Recipient has the right to disclose Confidential Information to the Approved Persons if the disclosure is for the purpose of the Approved Use.
+The Recipient must not, however, make such a disclosure without first notifying the Discloser and giving the Disclosure a reasonable opportunity to object to the disclosure. The Recipient must also use reasonable endeavours to ensure the person receiving the Confidential Information under this clause will treat it confidentially. 
+
+## Approved Persons and Approved Uses
+
+- Regardless of the other obligations in the Agreement, the Recipient has the right to disclose Confidential Information to the Approved Persons if the disclosure is for the purpose of the Approved Use.
 - If the Recipient discloses Confidential Information to an Approved Person, the Recipient will be responsible for securing the compliance of the Approved Person with the Agreement.
 
 ## Term
 
 - The parties agree that the term of the Agreement will be {{term}}.
-- The parties agree to destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
+- The Recipient agrees to, at the Discloser's sole discretion, destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
 
 ## LawPatch
 
@@ -124,7 +131,7 @@ First Party to Second Party / Second Party to First Party
 
 the employees, related body corporates, directors, officers, advisers, contractors, record keeping and technology service providers
 
-`Guidance` These are other people that the recipient is able to provide the confidential information to.  Be careful who you allow to receive it!
+`Guidance` These are other people that the recipient is able to provide the confidential information to.  Be careful who you allow to receive it and feel free to delete people who you don't think should get access to the information!
 
 #### governing law state
 
