@@ -47,6 +47,7 @@ The disclosure of Confidential Information from the Discloser to the Recipient u
 - impose any obligation on the Discloser to disclose accurate or current Confidential Information.
 
 ## Disclosures required by law
+
 The Recipient of Confidential Information is permitted to disclose Confidential Information if:
 - the disclosure is necessary in order to enforce the Agreement; 
 - the disclosure is required by law or a binding order of a government agency or court.
