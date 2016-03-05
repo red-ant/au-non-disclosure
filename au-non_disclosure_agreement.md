@@ -18,13 +18,13 @@ Your choice here determines whether this agreement deals with:
 
 ### (One Way) Confidential Information will be disclosed from one party to the other party only.
 
-- Confidential Information will be disclosed by {{disclosing party}} at the sole discretion of the Discloser.
+- Confidential Information will be disclosed by {{disclosing party}} at the discretion of the Discloser.
 - The Recipient agrees to use the Confidential Information solely for the Approved Use.
 - In exchange for the right to use the Confidential Information for the Approved Use, the Recipient of the Confidential Information agrees to keep it strictly confidential in accordance with the Agreement.
 
 ### (Two Way) Confidential Information will be disclosed by both parties to each other.
 
-- Confidential Information will be disclosed by both parties to each other at the sole discretion of each Discloser.
+- Confidential Information will be disclosed by both parties to each other at the discretion of each Discloser.
 - The Recipients agree to use the Confidential Information solely for the Approved Use.
 - In exchange for the right to use the Confidential Information for the Approved Use, the Recipients of the Confidential Information agree to keep it strictly confidential in accordance with the Agreement.
 
@@ -62,7 +62,7 @@ The Recipient must not, however, make such a disclosure without first notifying 
 ## Term
 
 - The parties agree that the term of the Agreement will be {{term}}.
-- The Recipient agrees to, at the Discloser's sole discretion, destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
+- The Recipient agrees to, at the Discloser's discretion, destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
 
 ## LawPatch
 
