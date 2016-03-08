@@ -48,11 +48,11 @@ The disclosure of Confidential Information from the Discloser to the Recipient u
 
 ## Disclosures required by law
 
-The Recipient of Confidential Information is permitted to disclose Confidential Information if:
-- the disclosure is necessary in order to enforce the Agreement; 
-- the disclosure is required by law or a binding order of a government agency or court.
-
-The Recipient must not, however, make such a disclosure without first notifying the Discloser and giving the Disclosure a reasonable opportunity to object to the disclosure. The Recipient must also use reasonable endeavours to ensure the person receiving the Confidential Information under this clause will treat it confidentially. 
+- The Recipient of Confidential Information is permitted to disclose Confidential Information if:
+	- the disclosure is necessary in order to enforce the Agreement;
+	- the disclosure is required by law or a binding order of a government agency or court.
+- The Recipient must not make such a disclosure without first notifying the Discloser and giving the Disclosure a reasonable opportunity to object to the disclosure.
+- The Recipient must also use reasonable endeavours to ensure the person receiving the Confidential Information under this clause will treat it confidentially.
 
 ## Approved Persons and Approved Uses
 
