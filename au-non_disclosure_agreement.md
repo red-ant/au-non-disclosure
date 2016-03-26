@@ -64,11 +64,6 @@ The disclosure of Confidential Information from the Discloser to the Recipient u
 - The parties agree that the term of the Agreement will be {{term}}.
 - The Recipient agrees to, at the Discloser's discretion, destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
 
-## LawPatch
-
-- The parties agree to this document using [LawPatch language](https://github.com/lawpatch) because legalese is tedious.
-- The [LawPatch language](https://github.com/lawpatch) referenced by hyperlink is legally effective. Text in the hyperlink is for convenience only and is not legally effective.
-
 ## Necessary bureaucracy
 
 https://github.com/CodePact/au-components/blob/master/end_agreement.md
