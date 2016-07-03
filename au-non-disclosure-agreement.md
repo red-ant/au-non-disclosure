@@ -70,63 +70,12 @@ https://github.com/CodePact/au-components/blob/master/end_agreement.md
 
 ## Definitions
 
-### Approved Use
-means the use information for the purpose of {{approved use}}.
-
-### Agreement
-means the agreement arising under this document.
-
-### Approved Person, Approved Persons
-means {{exemptions}} of the Recipient.
-
-### Communications
-means any contractual communication in connection with the Agreement.
-
-### Confidential Information
-means any information disclosed by the Discloser to the Recipient in connection with the Approved Use, not including information that:
-- is known to the Recipient at the time of disclosure;
-- is or becomes publicly accessible; or
-- is provided to the Recipient by a third party,
-
-unconnected with a breach of the Agreement by either party.
-
-### Discloser
-means the party disclosing Confidential Information under the Agreement.
-
-### GST Law
-means the _A New Tax System (Goods and Services Tax) Act_ 1999 (Cth).
-
-### Recipient, Recipients
-means the party that receives Confidential Information from the other party.
+https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
 
 ## Variables
 
-#### approved use
+https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
 
-developing the application called "[*]" / the parties deciding if they will work together on [x]
+## Widgets
 
-`Guidance` Describe the reason for the disclosure of confidential information.  This will set the boundary for what the recipient can use the disclosed confidential information for, so be as specific as you can.  For instance, if the two parties are talking about a business merger and need to disclose confidential information to each other, you'd write something like "the merger contemplated by the parties".
-
-#### disclosing party
-
-First Party to Second Party / Second Party to First Party
-
-`Guidance` Make it clear in the space above which party is disclosing to the other party.  The two options available are seperated by the slash.
-
-#### exemptions
-
-the employees, related body corporates, directors, officers, advisers, contractors, record keeping and technology service providers
-
-`Guidance` These are other people that the recipient is able to provide the confidential information to.  Be careful who you allow to receive it and feel free to delete people who you don't think should get access to the information!
-
-#### governing law state
-
-New South Wales
-
-`Guidance` This is the state that you will go to court in if there’s legal action under this document. It’s usually better to have a "home court" advantage. If your business is in New South Wales, make the forum the New South Wales courts.
-
-#### term
-
-5 years
-
-`Guidance` Type in the period of time that the confidentiality obligations under this document will endure for.  Err on the side of longer than you need - the parties can always agree to cancel the agreement!
+https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
