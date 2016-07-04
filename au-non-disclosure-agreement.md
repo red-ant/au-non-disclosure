@@ -61,7 +61,7 @@ The disclosure of Confidential Information from the Discloser to the Recipient u
 
 ## Term
 
-- The parties agree that the term of the Agreement will be {{term}}.
+- The parties agree that the term of the Agreement will be {{agreement length}}.
 - The Recipient agrees to, at the Discloser's discretion, destroy or return to the Discloser all Confidential Information in their possession upon the termination of the Agreement.
 
 ## Necessary bureaucracy
