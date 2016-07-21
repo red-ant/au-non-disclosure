@@ -4,9 +4,9 @@
 - one party to another party; or
 - two parties to each other.
 
-`Party 1 Name` First Party
+`Party 1 Name` Provider
 
-`Party 2 Name` Second Party
+`Party 2 Name` Customer
 
 ## Confidentiality
 
