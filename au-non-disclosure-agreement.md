@@ -66,7 +66,7 @@ The disclosure of Confidential Information from the Discloser to the Recipient u
 
 ## Necessary bureaucracy
 
-https://github.com/CodePact/au-components/blob/master/end_agreement.md
+https://github.com/CodePact/au-components/blob/master/necessary_bureaucracy.md
 
 ## Definitions
 
