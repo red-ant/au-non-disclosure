@@ -1,6 +1,6 @@
 # Non-Disclosure Agreement
 
-`Purpose` This agreement allows for confidential disclosures by:
+`Purpose` This agreement allows for confidential information disclosures by:
 - one party to another party; or
 - two parties to each other.
 
