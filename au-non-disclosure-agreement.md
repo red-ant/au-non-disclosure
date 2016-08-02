@@ -38,7 +38,7 @@ Recipient agrees to:
 
 any unauthorised access or use of the Confidential Information for which it is responsible in whole or in part.
 
-## Effect of disclosures
+## Disclosure outcomes
 
 The disclosure of Confidential Information from the Discloser to the Recipient under the Agreement will not:
 
